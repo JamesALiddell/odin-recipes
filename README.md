@@ -1,0 +1,1 @@
+This project is about the current skills I have learned with html so far.
