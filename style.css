@@ -1,0 +1,21 @@
+body {
+    background-color: #D2D0BA;
+}
+
+.chef-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+    
+}
+
+.start-page {
+    text-align: center;
+    
+}
+
+.recipes {
+    text-align: center;
+    padding: auto;
+}
