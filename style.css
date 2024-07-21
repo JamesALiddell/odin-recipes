@@ -4,18 +4,17 @@ body {
 
 .chef-picture {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%; 
+    margin: auto;
     
 }
 
 .start-page {
     text-align: center;
+    margin: 10px auto;
     
 }
 
 .recipes {
     text-align: center;
-    padding: auto;
+    margin: 10px auto;
 }
